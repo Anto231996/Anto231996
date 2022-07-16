@@ -1,6 +1,7 @@
 # Hi World! 
 ## My name is Antonio.
 ### I am a Junior Full Stack Web Developer.
+
 <hr>
 
 #### LANGUAGES:
@@ -10,13 +11,14 @@
 #### FRAMEWORKS:
 <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'> <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D'>
 
+<hr>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-pagano/)
+
+<hr>
 
 ![I am a Junior Full Stack Web Developer](https://global-uploads.webflow.com/5f0d53c042a9ed6288de7f8d/5f647d58ac11477e32eefaa6_work-desk-with-laptop-and-working-setup-P5BLXWA.jpg)
 
-
-
-
-#### My Linkedin profile:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antonio-pagano/)  
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anto231996)](https://github.com/anuraghazra/github-readme-stats)
