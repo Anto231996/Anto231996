@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Antonio
 #### I am a Junior Full Stack Web Developer
-![I am a Junior Full Stack Web Developer](https://global-uploads.webflow.com/5f0d53c042a9ed6288de7f8d/5f647d58ac11477e32eefaa6_work-desk-with-laptop-and-working-setup-P5BLXWA.jpg)
+![I am a Junior Full Stack Web Developer](https://wallpaperaccess.com/full/3239444.jpg)
 
 
 
