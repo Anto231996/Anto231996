@@ -1,6 +1,6 @@
-# Hi World! 
-## My name is Antonio.
-### I am a Junior Full Stack Web Developer.
+# Hi World! :wave:	
+## My name is Antonio. :slightly_smiling_face:	
+### I am a Junior Full Stack Web Developer. :computer:	
 
 <hr>
 
